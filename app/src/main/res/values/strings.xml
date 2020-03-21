@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">温度计</string>
+    <string name="Hello_World">Hello World</string>
+    <string name="Reset">reset</string>
+    <string name="Team_A">Team A</string>
+    <string name="Point_1">+1 POINT</string>
+    <string name="Point_2">+2 POINT</string>
+    <string name="Point_3">+3 POINT</string>
+    <string name="score">score</string>
+    <string name="Transformation">Transformatiion</string>
+    <string name="hint_txt">输入摄氏度</string>
+</resources>
